@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\whitelist.txt",
+        "source": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\src\\main\\res\\raw\\whitelist.txt"
+    },
+    {
+        "merged": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blacklist.txt",
+        "source": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\src\\main\\res\\raw\\blacklist.txt"
+    }
+]

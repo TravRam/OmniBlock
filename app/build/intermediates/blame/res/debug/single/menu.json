@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_whitelist_read.xml",
+        "source": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\src\\main\\res\\menu\\menu_whitelist_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_preferences.xml",
+        "source": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\src\\main\\res\\menu\\menu_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home.xml",
+        "source": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\src\\main\\res\\menu\\menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_blacklist_read.xml",
+        "source": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\src\\main\\res\\menu\\menu_blacklist_read.xml"
+    }
+]

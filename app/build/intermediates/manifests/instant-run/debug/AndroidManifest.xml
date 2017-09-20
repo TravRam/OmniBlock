@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cop4331.trav.omniblock"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.cop4331.trav.omniblock.HomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cop4331.trav.omniblock.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity android:name="com.cop4331.trav.omniblock.StatisticsActivity" />
+
+        <service
+            android:name="com.cop4331.trav.omniblock.StatisticService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.cop4331.trav.omniblock.BlacklistRead"
+            android:label="@string/title_activity_blacklist_read" >
+        </activity>
+        <activity
+            android:name="com.cop4331.trav.omniblock.WhitelistRead"
+            android:label="@string/title_activity_whitelist_read" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.cop4331.trav.omniblock.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

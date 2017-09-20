@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OmniBlock</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="onOff">New ToggleButton</string>
+    <string name="subText">Lets Block Those Pesky Ads</string>
+    <string name="title_activity_preferences">Preferences</string>
+    <string name="btnSettings">Settings</string>
+    <string name="title_activity_statistics_actiity">StatisticsActiity</string>
+    <string name="txtTrackStat">Enable Statistics</string>
+    <string name="btnTrackStat">Tracking Toggle</string>
+
+    <string name="TAG">It Works!!</string>
+    <string name="title_activity_blacklist_read">Blacklist:</string>
+    <string name="title_activity_whitelist_read">Whitelist:</string>
+
+</resources>

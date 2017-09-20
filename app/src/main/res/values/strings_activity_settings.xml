@@ -1,0 +1,49 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_blacklist">BlackList</string>
+
+    <string name="pref_list_update_name">Add To BlackList</string>
+    <string name="pref_list_default_name"></string>
+
+    <string name="pref_list_remove_name">Remove From BlackList</string>
+    <string name="pref_list_default_remove"></string>
+
+    <string name="pref_view_blacklist">View Current BlackList</string>
+
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_list_sync">Host File</string>
+
+    <string name="pref_title_update_frequency">Automatic Update Frequency</string>
+    <string-array name="pref_update_frequency_titles">
+        <item>1 Hour</item>
+        <item>1 Day</item>
+        <item>1 Week</item>
+        <item>Manually</item>
+    </string-array>
+    <string-array name="pref_update_frequency_values">
+        <item>60</item>
+        <item>1440</item>
+        <item>10080</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name= "updateHostText">Update Host.txt File</string>
+    <string name = "pref_host_update_key">Update Host.txt File</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_whitelist">Whitelist</string>
+
+    <string name="pref_list_update_name2">Add To WhiteList</string>
+    <string name="pref_list_default_name2"></string>
+
+    <string name="pref_list_remove_name2">Remove From WhiteList</string>
+    <string name="pref_list_default_remove2"></string>
+
+    <string name="pref_view_whitlelist">View Current WhiteList</string>
+
+</resources>

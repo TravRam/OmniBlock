@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:design:23.1.1] C:\Users\travr\.android\build-cache\d7e7d7fb8de724c1d8857b945dd26749ef4e945a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\travr\.android\build-cache\1e9879570c4864abeecf3e19eb53f029774af35f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\travr\.android\build-cache\67c06e1613de7bcb465ab5833bf7eb7118acd253\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.cop4331.trav.omniblock.HomeActivity
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:10:9-19:20
+	android:label
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:12:13-45
+	android:theme
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:13:13-63
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.cop4331.trav.omniblock.SettingsActivity
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:20:9-22:63
+	android:label
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:22:13-60
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:21:13-45
+activity#com.cop4331.trav.omniblock.StatisticsActivity
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:23:19-53
+service#com.cop4331.trav.omniblock.StatisticService
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:26:13-45
+activity#com.cop4331.trav.omniblock.BlacklistRead
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:30:13-42
+activity#com.cop4331.trav.omniblock.WhitelistRead
+ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:35:13-66
+	android:name
+		ADDED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml:34:13-42
+uses-sdk
+INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.1.1] C:\Users\travr\.android\build-cache\d7e7d7fb8de724c1d8857b945dd26749ef4e945a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\travr\.android\build-cache\1e9879570c4864abeecf3e19eb53f029774af35f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\travr\.android\build-cache\1ec39169bfa5f7b6d3f5e4e9495e7a5a157f7ff6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\travr\.android\build-cache\67c06e1613de7bcb465ab5833bf7eb7118acd253\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\src\main\AndroidManifest.xml

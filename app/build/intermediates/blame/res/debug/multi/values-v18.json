@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\travr\\.android\\build-cache\\1e9879570c4864abeecf3e19eb53f029774af35f\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 48,
+                        "endOffset": 273
+                    }
+                }
+            }
+        ]
+    }
+]

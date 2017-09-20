@@ -1,0 +1,19 @@
+#Tue Sep 19 23:26:49 EDT 2017
+renamed.5=classes2.dex
+renamed.4=classes3.dex
+renamed.3=classes6.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes5.dex
+base.5=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b1e8052b10ac4ab7a6b7a6597a92fe08a6eaa62
+base.4=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_af32c5f06039e35d6416c76ceec963c50aaba81e
+base.3=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_555caeaa3971f1f6322d0ae9c9c9421db9b1c304
+base.2=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fa1c08374025ff4400ff0f6b2aaa6de41155c98c
+base.1=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4dc415f5e300384b8e9f9419fd77eb7c7245e8aa
+base.0=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_93759b41cc1e72200e0459656947d8f314a7eec9
+file.5=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b1e8052b10ac4ab7a6b7a6597a92fe08a6eaa62\\classes.dex
+file.4=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_af32c5f06039e35d6416c76ceec963c50aaba81e\\classes.dex
+file.3=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_555caeaa3971f1f6322d0ae9c9c9421db9b1c304\\classes.dex
+file.2=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fa1c08374025ff4400ff0f6b2aaa6de41155c98c\\classes.dex
+file.1=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4dc415f5e300384b8e9f9419fd77eb7c7245e8aa\\classes.dex
+file.0=C\:\\Users\\travr\\Downloads\\OmniBlock\\OmniBlock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_93759b41cc1e72200e0459656947d8f314a7eec9\\classes.dex

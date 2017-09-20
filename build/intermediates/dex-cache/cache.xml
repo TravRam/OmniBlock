@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\.android\build-cache\67c06e1613de7bcb465ab5833bf7eb7118acd253\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b1e8052b10ac4ab7a6b7a6597a92fe08a6eaa62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\.android\build-cache\67c06e1613de7bcb465ab5833bf7eb7118acd253\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_93759b41cc1e72200e0459656947d8f314a7eec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910a21b572a4159a8e4156e481deac3f467f2494">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e90bb60eb828c365e33a013a1dccf93efffbd963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\.android\build-cache\d7e7d7fb8de724c1d8857b945dd26749ef4e945a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af32c5f06039e35d6416c76ceec963c50aaba81e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_555caeaa3971f1f6322d0ae9c9c9421db9b1c304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\.android\build-cache\1e9879570c4864abeecf3e19eb53f029774af35f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dc415f5e300384b8e9f9419fd77eb7c7245e8aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ed0ddad635dc2419866f290e066780bc1c088b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\travr\.android\build-cache\1ec39169bfa5f7b6d3f5e4e9495e7a5a157f7ff6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\travr\Downloads\OmniBlock\OmniBlock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa1c08374025ff4400ff0f6b2aaa6de41155c98c\classes.dex" />
+    </item>
+
+</items>
